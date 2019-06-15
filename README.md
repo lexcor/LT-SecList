@@ -19,5 +19,5 @@ Credit: [kburaya](https://github.com/kburaya>)
 
 ## Authors
 
-* **Mantas Sasnauskas** - *All* [lexcor](https://github.com/lexcor)
+* **Mantas Sasnauskas** - *All* - [lexcor](https://github.com/lexcor)
 * **Tomas Vanagas** - *top passwords* - [tomasvanagas](https://github.com/tomasvanagas)
