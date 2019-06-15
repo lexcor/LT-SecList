@@ -19,5 +19,5 @@ Credit: [kburaya](https://github.com/kburaya>)
 
 ## Authors
 
-* **Mantas Sasnauskas** - *Initial work* - [lexcor](https://github.com/lexcor)
-* **Tomas Vanagas** - *Initial work* - [tomasvanagas](https://github.com/tomasvanagas)
+* **Mantas Sasnauskas** - [lexcor](https://github.com/lexcor)
+* **Tomas Vanagas** - [tomasvanagas](https://github.com/tomasvanagas)
