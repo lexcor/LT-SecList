@@ -1,4 +1,4 @@
-# Passwords
+# Passwords | Slaptažodžiai
 Top 100 Lithuanian Passwords
 
 Top 20 000 Lithuanian Passwords
