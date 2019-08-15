@@ -1,6 +1,6 @@
 # Lietuviškas SecList
 
-## Passwords | Slaptažodžiai
+## Lithuanian Passwords | Lietuviški Slaptažodžiai
 
 Top 100 Lithuanian Passwords
 
