@@ -32,7 +32,6 @@ kompas
 654321
 karolina
 vasara
-0
 andrius
 1234567890
 159753
