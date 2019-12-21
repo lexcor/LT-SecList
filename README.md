@@ -16,7 +16,7 @@ Top 20 000 Lithuanian Passwords
 
 10 000 Populiariausių žodžių
 
-Credit: [kburaya](https://github.com/kburaya>)
+Credit: [kburaya](https://github.com/kburaya)
 
 ## Authors
 
