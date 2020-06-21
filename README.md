@@ -16,8 +16,9 @@ Top 20 000 Lithuanian Passwords
 
 10 000 Populiariausių žodžių
 
-Credit: [kburaya](https://github.com/kburaya)
 
 ## Authors
 
-* **Mantas Sasnauskas** - *all* - [lexcor](https://github.com/lexcor)
+* **Mantas Sasnauskas** - [lexcor](https://github.com/lexcor)
+
+Credit: [kburaya](https://github.com/kburaya)
