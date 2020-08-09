@@ -21,4 +21,3 @@ Top 20 000 Lithuanian Passwords
 
 * **Mantas Sasnauskas** - [lexcor](https://github.com/lexcor)
 
-Credit: [kburaya](https://github.com/kburaya)
