@@ -4,11 +4,15 @@
 
 Top 100 Lithuanian Passwords
 
-Top 20 000 Lithuanian Passwords
+Top 10 000 Lithuanian Passwords
+
+Top 500 000 Lithuanian Passwords
 
 100 populiariausių lietuviškų slaptažodžių
 
-20 000 populiariausių lietuviškų slaptažodžių
+10 000 populiariausių lietuviškų slaptažodžių
+
+500 000 populiariausių lietuviškų slaptažodžių
 
 ## Most common lithuanian words | Populiariausi lietuviški žodžiai
 
