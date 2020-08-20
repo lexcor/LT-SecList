@@ -1,4 +1,4 @@
-# Lietuviškas SecList
+# Lietuviškas SecList 2019-2020
 
 ## Lithuanian Passwords | Lietuviški Slaptažodžiai
 
